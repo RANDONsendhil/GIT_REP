@@ -1,7 +1,7 @@
 {
 	"addonId": "Autoclip",
 	"displayName": "Autoclip",
-	"URL": "https://github.com/RANDONsendhil/GIT_REP/edit/dev/Autoclip.nvda-addon",
+	"URL": "https://raw.githubusercontent.com/RANDONsendhil/GIT_REP/dev/Autoclip.nvda-addon",
 	"description": "Automatically read the contents of the clipboard when a change is detected.",
 	"sha256": "be28e1e760a498c66c1fca30a7800dc4f95a76653d7b4d62318839add59832a5",
 	"addonVersionName": "1.0.4",
